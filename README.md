@@ -78,7 +78,6 @@ Each predictor follows these functions:
 - [WEKA Machine Learning Toolkit](https://www.cs.waikato.ac.nz/ml/weka/)  
 - [Caffe Deep Learning Framework](http://caffe.berkeleyvision.org/)  
 - [Tejas Simulator](http://www.cse.iitd.ac.in/tejas/install.html)
-- 
 
 -------- For further details, please refer to Solution_Description.pdf file. --------
 Thank You!
